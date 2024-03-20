@@ -408,7 +408,7 @@ h6 {
 #hero {
   width: 100%;
   min-height: 100vh;
-  background: url("/apartment.jpg") top center;
+  background: url('apartment.jpg') top center;
   background-size: cover;
   position: relative;
 }
